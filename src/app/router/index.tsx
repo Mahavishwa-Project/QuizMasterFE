@@ -4,7 +4,7 @@ import { LoginPage } from "@/pages/user/LoginPage";
 import { Dashboard } from "@/pages/user/Dashboard";
 
 const router = createBrowserRouter([
-    { path: "/login", element: <LoginPage /> },
+    { path: "/", element: <LoginPage /> },
     { path: "/auth/callback", element: <AuthCallback /> },
     { path: "/dashboard", element: <Dashboard /> }
 ]);

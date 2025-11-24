@@ -122,7 +122,7 @@ export function LoginPage() {
                 <div className="mb-8 flex justify-center">
                     <TelegramAuth
                         botName="QuizzzzzMaster_Bot"
-                        authUrl="http://localhost:8000/auth/telegram/callback"
+                        authUrl="https://presumptive-renee-uncircled.ngrok-free.dev/auth/telegram/callback"
                     />
                 </div>
 
