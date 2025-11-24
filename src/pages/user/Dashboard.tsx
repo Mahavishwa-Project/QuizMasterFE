@@ -8,14 +8,12 @@ import {
     Bell,
     Search,
     Menu,
-    X,
     ChevronRight,
     Play,
     Clock,
     Flame,
     Star,
     Zap,
-    CheckCircle2,
     AlertCircle
 } from 'lucide-react';
 
